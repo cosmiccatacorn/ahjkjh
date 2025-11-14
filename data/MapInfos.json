@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":true,"name":"inicio","order":1,"parentId":0,"scrollX":688.5,"scrollY":468.75},
+{"id":2,"expanded":true,"name":"Expresiones de la persona","order":2,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":false,"name":"identidad","order":5,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":true,"name":"libertad","order":3,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":true,"name":"fin","order":8,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":true,"name":"autoestima","order":4,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":7,"expanded":false,"name":"relaciones","order":6,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"persoalidad","order":7,"parentId":0,"scrollX":688.5,"scrollY":468.75},
+{"id":9,"expanded":false,"name":"amistad","order":9,"parentId":0,"scrollX":832,"scrollY":640}
+]
